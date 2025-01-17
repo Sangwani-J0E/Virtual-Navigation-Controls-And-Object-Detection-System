@@ -1,0 +1,1114 @@
+--- Event Log ---
+Session on 2024-10-16 22:44:34.251426:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-16 22:44:38.676224:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-16 22:44:46.816184:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-16 22:44:51.075096:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-16 22:44:55.365285:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-17 09:36:41.401298:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-17 09:36:46.159344:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-17 09:36:50.628425:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-17 09:36:55.042212:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-19 07:27:58.332756:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-19 07:28:02.937370:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-21 21:58:37.344561:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-21 21:58:37.962815:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-21 21:58:38.561418:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-21 21:58:39.116582:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-21 21:58:39.662800:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-21 21:58:40.148124:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-21 21:58:40.622708:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-21 21:58:41.108382:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-21 21:58:58.432672:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-21 21:59:00.162838:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bed
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:34.043584:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:34.728057:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:35.371424:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:35.958054:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:36.560560:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:37.079309:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:37.661454:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:38.193371:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:38.749028:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:39.294120:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:39.832503:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:40.467289:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:40.975929:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:41.527654:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:42.096621:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:42.634532:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:43.190174:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:43.791093:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:44.360037:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:44.905056:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:45.486816:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:46.045214:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:46.635431:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:47.171931:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:47.812194:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:48.360985:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:48.946990:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:49.558056:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:50.117112:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:50.664008:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:51.275010:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:51.886947:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:52.443915:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:53.025449:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:49:57.826241:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:02.268991:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person, tie
+Average Distance From Objects: 5.95 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:05.642059:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person, tie
+Average Distance From Objects: 5.95 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:06.282634:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person, tie
+Average Distance From Objects: 5.95 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:06.976313:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person, tie
+Average Distance From Objects: 5.95 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:07.675229:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person, tie
+Average Distance From Objects: 5.95 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:08.384650:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person, tie
+Average Distance From Objects: 5.95 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:09.077037:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:09.720798:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:10.379933:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:11.099095:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:11.760329:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:12.357730:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:13.005644:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:13.524831:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:14.069415:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:14.658185:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:15.274569:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:15.869093:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:16.425663:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:17.003620:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:17.592866:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:18.195095:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:18.754923:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:19.281868:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:19.840604:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:20.388523:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:20.949820:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:21.491271:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:22.051738:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:22.696797:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:23.330612:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:23.946684:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:24.597587:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:25.224147:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:25.859070:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:26.463234:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:27.089132:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:27.751761:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:28.352863:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:29.015205:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:29.662106:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:30.280300:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:30.929952:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:31.554681:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: bird
+Average Distance From Objects: 0.0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:32.162714:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:32.749108:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2024-10-22 08:50:33.307959:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+
+--- Event Log ---
+Session on 2025-01-08 09:31:43.114560:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2025-01-08 09:31:47.411564:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2025-01-08 09:31:51.730441:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2025-01-08 09:31:56.127441:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2025-01-08 09:32:00.492798:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person, wine glass
+Average Distance From Objects: 5.95 m
+
+
+--- Event Log ---
+Session on 2025-01-08 09:32:04.539664:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person, wine glass
+Average Distance From Objects: 5.95 m
+
+
+--- Event Log ---
+Session on 2025-01-08 09:32:09.005065:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person, wine glass
+Average Distance From Objects: 5.95 m
+
+
+--- Event Log ---
+Session on 2025-01-08 09:32:13.468036:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2025-01-08 09:34:35.912077:
+Left Clicks: 0
+Right Clicks: 1
+Actions Performed: {'time': datetime.datetime(2025, 1, 8, 9, 34, 35, 911089), 'action': 'Right Click'}
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+Time: 2025-01-08 09:34:35.911089, Action: Right Click
+
+--- Event Log ---
+Session on 2025-01-08 09:34:41.424141:
+Left Clicks: 0
+Right Clicks: 2
+Actions Performed: {'time': datetime.datetime(2025, 1, 8, 9, 34, 41, 424141), 'action': 'Right Click'}
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+Time: 2025-01-08 09:34:35.911089, Action: Right Click
+Time: 2025-01-08 09:34:41.424141, Action: Right Click
+
+--- Event Log ---
+Session on 2025-01-08 09:34:41.987417:
+Left Clicks: 0
+Right Clicks: 3
+Actions Performed: {'time': datetime.datetime(2025, 1, 8, 9, 34, 41, 987417), 'action': 'Right Click'}
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+Time: 2025-01-08 09:34:35.911089, Action: Right Click
+Time: 2025-01-08 09:34:41.424141, Action: Right Click
+Time: 2025-01-08 09:34:41.987417, Action: Right Click
+
+--- Event Log ---
+Session on 2025-01-08 09:34:43.658858:
+Left Clicks: 0
+Right Clicks: 4
+Actions Performed: {'time': datetime.datetime(2025, 1, 8, 9, 34, 43, 657844), 'action': 'Right Click'}
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+Time: 2025-01-08 09:34:35.911089, Action: Right Click
+Time: 2025-01-08 09:34:41.424141, Action: Right Click
+Time: 2025-01-08 09:34:41.987417, Action: Right Click
+Time: 2025-01-08 09:34:43.657844, Action: Right Click
+
+--- Event Log ---
+Session on 2025-01-08 09:35:05.207498:
+Left Clicks: 1
+Right Clicks: 4
+Actions Performed: {'time': datetime.datetime(2025, 1, 8, 9, 35, 5, 206502), 'action': 'Left Click'}
+Objects Detected: 
+Average Distance From Objects: 0 m
+
+Time: 2025-01-08 09:34:35.911089, Action: Right Click
+Time: 2025-01-08 09:34:41.424141, Action: Right Click
+Time: 2025-01-08 09:34:41.987417, Action: Right Click
+Time: 2025-01-08 09:34:43.657844, Action: Right Click
+Time: 2025-01-08 09:35:05.206502, Action: Left Click
+
+--- Event Log ---
+Session on 2025-01-08 09:35:21.205648:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2025-01-08 09:35:25.362366:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2025-01-08 09:35:29.754670:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2025-01-08 09:35:34.173745:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2025-01-08 09:35:38.605102:
+Left Clicks: 0
+Right Clicks: 0
+Actions Performed: None
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+
+--- Event Log ---
+Session on 2025-01-08 09:35:38.633545:
+Left Clicks: 1
+Right Clicks: 0
+Actions Performed: {'time': datetime.datetime(2025, 1, 8, 9, 35, 38, 633545), 'action': 'Left Click'}
+Objects Detected: person
+Average Distance From Objects: 11.9 m
+
+Time: 2025-01-08 09:35:38.633545, Action: Left Click
+

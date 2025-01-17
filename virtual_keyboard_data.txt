@@ -1,0 +1,196 @@
+
+
+Session on Wed Oct 16 13:27:26 2024:
+Left Clicks: 0
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: 
+
+FPS Log:
+
+--- Event Log ---
+
+
+Session on Wed Jan 08 09:28:11 2025:
+Left Clicks: 16
+Right Clicks: 3
+Last Hand Used: Right
+Actions Performed: 
+Time: 2025-01-08 09:27:45, Action: Left Click
+Time: 2025-01-08 09:27:47, Action: Left Click
+Time: 2025-01-08 09:27:48, Action: Left Click
+Time: 2025-01-08 09:27:48, Action: Left Click
+Time: 2025-01-08 09:27:48, Action: Left Click
+Time: 2025-01-08 09:27:49, Action: Left Click
+Time: 2025-01-08 09:27:49, Action: Left Click
+Time: 2025-01-08 09:27:49, Action: Left Click
+Time: 2025-01-08 09:27:52, Action: Right Click
+Time: 2025-01-08 09:27:54, Action: Right Click
+Time: 2025-01-08 09:27:55, Action: Right Click
+Time: 2025-01-08 09:27:57, Action: Left Click
+Time: 2025-01-08 09:28:00, Action: Left Click
+Time: 2025-01-08 09:28:02, Action: Left Click
+Time: 2025-01-08 09:28:02, Action: Left Click
+Time: 2025-01-08 09:28:02, Action: Left Click
+Time: 2025-01-08 09:28:04, Action: Left Click
+Time: 2025-01-08 09:28:06, Action: Left Click
+Time: 2025-01-08 09:28:06, Action: Left Click
+
+FPS Log:
+FPS: 13.694372221595188
+FPS: 15.238843830429674
+FPS: 15.912365221875948
+FPS: 16.052699639896797
+FPS: 16.121054236251098
+FPS: 16.731522703600078
+FPS: 16.772712162160282
+FPS: 16.804928287026925
+FPS: 17.091681429673176
+FPS: 17.308812316124015
+FPS: 17.413000655494645
+FPS: 17.46210111709651
+FPS: 17.88511864313269
+FPS: 18.172342509793427
+FPS: 18.1850334628833
+FPS: 18.205280952080425
+FPS: 18.356273018970885
+FPS: 18.531644679693756
+FPS: 18.595562232203807
+
+--- Event Log ---
+
+
+Session on Wed Jan 08 09:29:18 2025:
+Left Clicks: 0
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: 
+
+FPS Log:
+
+--- Event Log ---
+
+
+Session on Wed Jan 08 09:30:16 2025:
+Left Clicks: 1
+Right Clicks: 0
+Last Hand Used: Left
+Actions Performed: 
+Time: 2025-01-08 09:29:59, Action: Left Click
+
+FPS Log:
+FPS: 16.67489298157324
+
+--- Event Log ---
+
+
+Session on Wed Jan 08 09:34:05 2025:
+Left Clicks: 15
+Right Clicks: 16
+Last Hand Used: Right
+Actions Performed: 
+Time: 2025-01-08 09:32:32, Action: Left Click
+Time: 2025-01-08 09:32:37, Action: Left Click
+Time: 2025-01-08 09:32:48, Action: Left Click
+Time: 2025-01-08 09:32:50, Action: Left Click
+Time: 2025-01-08 09:32:51, Action: Left Click
+Time: 2025-01-08 09:32:51, Action: Left Click
+Time: 2025-01-08 09:33:02, Action: Right Click
+Time: 2025-01-08 09:33:03, Action: Right Click
+Time: 2025-01-08 09:33:03, Action: Right Click
+Time: 2025-01-08 09:33:03, Action: Right Click
+Time: 2025-01-08 09:33:04, Action: Right Click
+Time: 2025-01-08 09:33:04, Action: Right Click
+Time: 2025-01-08 09:33:13, Action: Left Click
+Time: 2025-01-08 09:33:13, Action: Left Click
+Time: 2025-01-08 09:33:14, Action: Left Click
+Time: 2025-01-08 09:33:17, Action: Left Click
+Time: 2025-01-08 09:33:21, Action: Right Click
+Time: 2025-01-08 09:33:21, Action: Right Click
+Time: 2025-01-08 09:33:21, Action: Right Click
+Time: 2025-01-08 09:33:22, Action: Right Click
+Time: 2025-01-08 09:33:36, Action: Left Click
+Time: 2025-01-08 09:33:36, Action: Left Click
+Time: 2025-01-08 09:33:37, Action: Left Click
+Time: 2025-01-08 09:33:49, Action: Left Click
+Time: 2025-01-08 09:33:52, Action: Left Click
+Time: 2025-01-08 09:33:54, Action: Right Click
+Time: 2025-01-08 09:33:54, Action: Right Click
+Time: 2025-01-08 09:33:55, Action: Right Click
+Time: 2025-01-08 09:33:55, Action: Right Click
+Time: 2025-01-08 09:33:55, Action: Right Click
+Time: 2025-01-08 09:33:55, Action: Right Click
+
+FPS Log:
+FPS: 20.097493852687222
+FPS: 21.294898694692655
+FPS: 21.30080911077957
+FPS: 21.333077089639527
+FPS: 21.3690706597349
+FPS: 21.38667961955832
+FPS: 21.385491877732196
+FPS: 21.391007548181857
+FPS: 21.400943766261637
+FPS: 21.417785821654206
+FPS: 21.42710027651229
+FPS: 21.437058933731045
+FPS: 21.595923857153362
+FPS: 21.59887267498219
+FPS: 21.59294931853442
+FPS: 21.654998974736937
+FPS: 21.713718946430372
+FPS: 21.722986077086148
+FPS: 21.730334997034696
+FPS: 21.73308988688645
+FPS: 21.85182325606654
+FPS: 21.853484168685718
+FPS: 21.86814358998275
+FPS: 21.936284101383233
+FPS: 21.936605492816273
+FPS: 21.947984870664182
+FPS: 21.949159280056815
+FPS: 21.950998434808362
+FPS: 21.95428744234918
+FPS: 21.95738768013102
+FPS: 21.959489335030003
+
+--- Event Log ---
+
+
+Session on Wed Jan 08 09:50:14 2025:
+Left Clicks: 7
+Right Clicks: 7
+Last Hand Used: Right
+Actions Performed: 
+Time: 2025-01-08 09:48:53, Action: Left Click
+Time: 2025-01-08 09:48:55, Action: Left Click
+Time: 2025-01-08 09:49:19, Action: Right Click
+Time: 2025-01-08 09:49:19, Action: Right Click
+Time: 2025-01-08 09:49:48, Action: Left Click
+Time: 2025-01-08 09:49:52, Action: Left Click
+Time: 2025-01-08 09:49:55, Action: Left Click
+Time: 2025-01-08 09:49:56, Action: Left Click
+Time: 2025-01-08 09:49:58, Action: Left Click
+Time: 2025-01-08 09:50:06, Action: Right Click
+Time: 2025-01-08 09:50:06, Action: Right Click
+Time: 2025-01-08 09:50:06, Action: Right Click
+Time: 2025-01-08 09:50:07, Action: Right Click
+Time: 2025-01-08 09:50:08, Action: Right Click
+
+FPS Log:
+FPS: 13.810809956222256
+FPS: 14.182657885232686
+FPS: 16.89538729471954
+FPS: 16.91918806349408
+FPS: 18.413248216610317
+FPS: 18.55967688855972
+FPS: 18.68510370952197
+FPS: 18.701569370636033
+FPS: 18.774005814627177
+FPS: 19.00374258939609
+FPS: 19.01592618242522
+FPS: 19.022472563412673
+FPS: 19.053136331417907
+FPS: 19.069831058884354
+
+--- Event Log ---

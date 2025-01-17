@@ -1,0 +1,234 @@
+Left Clicks: 0
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+
+Session on Sun Oct 13 23:01:21 2024:
+Left Clicks: 3
+Right Clicks: 4
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+Time: Sun Oct 13 23:01:15 2024, Action: Right Click
+Time: Sun Oct 13 23:01:16 2024, Action: Left Click
+Time: Sun Oct 13 23:01:16 2024, Action: Right Click
+Time: Sun Oct 13 23:01:17 2024, Action: Left Click
+Time: Sun Oct 13 23:01:17 2024, Action: Right Click
+Time: Sun Oct 13 23:01:17 2024, Action: Left Click
+Time: Sun Oct 13 23:01:18 2024, Action: Right Click
+
+Session on Sun Oct 13 23:03:54 2024:
+Left Clicks: 0
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+
+Session on Sun Oct 13 23:04:15 2024:
+Left Clicks: 0
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+
+Session on Sun Oct 13 23:04:46 2024:
+Left Clicks: 0
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+
+Session on Sun Oct 13 23:14:48 2024:
+Left Clicks: 0
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+
+Session on Sun Oct 13 23:16:26 2024:
+Left Clicks: 0
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+
+Session on Sun Oct 13 23:20:22 2024:
+Left Clicks: 0
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+
+Session on Sun Oct 13 23:21:56 2024:
+Left Clicks: 1
+Right Clicks: 1
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+Time: Sun Oct 13 23:21:31 2024, Action: Left Click
+Time: Sun Oct 13 23:21:46 2024, Action: Right Click
+
+Session on Sun Oct 13 23:22:30 2024:
+Left Clicks: 0
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+
+Session on Sun Oct 13 23:22:57 2024:
+Left Clicks: 0
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+
+Session on Mon Oct 14 22:39:23 2024:
+Left Clicks: 0
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+
+Session on Wed Oct 16 13:24:09 2024:
+Left Clicks: 1
+Right Clicks: 2
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+Time: Wed Oct 16 13:24:02 2024, Action: Right Click
+Time: Wed Oct 16 13:24:05 2024, Action: Left Click
+Time: Wed Oct 16 13:24:07 2024, Action: Right Click
+
+Session on Wed Oct 16 13:27:55 2024:
+Left Clicks: 0
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+
+Session on Sun Oct 20 19:53:46 2024:
+Left Clicks: 0
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+
+Session on Tue Jan  7 18:25:00 2025:
+Left Clicks: 8
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+Time: Tue Jan  7 18:23:41 2025, Action: Left Click
+Time: Tue Jan  7 18:24:19 2025, Action: Left Click
+Time: Tue Jan  7 18:24:23 2025, Action: Left Click
+Time: Tue Jan  7 18:24:26 2025, Action: Left Click
+Time: Tue Jan  7 18:24:31 2025, Action: Left Click
+Time: Tue Jan  7 18:24:34 2025, Action: Left Click
+Time: Tue Jan  7 18:24:37 2025, Action: Left Click
+Time: Tue Jan  7 18:24:55 2025, Action: Left Click
+
+Session on Tue Jan  7 18:35:08 2025:
+Left Clicks: 11
+Right Clicks: 24
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+
+Session on Tue Jan  7 18:37:03 2025:
+Left Clicks: 5
+Right Clicks: 0
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+Time: Tue Jan  7 18:35:52 2025, Action: Left Click
+Time: Tue Jan  7 18:35:54 2025, Action: Left Click
+Time: Tue Jan  7 18:36:30 2025, Action: Left Click
+Time: Tue Jan  7 18:36:31 2025, Action: Left Click
+Time: Tue Jan  7 18:36:45 2025, Action: Left Click
+
+Session on Tue Jan  7 18:39:38 2025:
+Left Clicks: 11
+Right Clicks: 3
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+Time: Tue Jan  7 18:37:52 2025, Action: Left Click
+Time: Tue Jan  7 18:38:00 2025, Action: Left Click
+Time: Tue Jan  7 18:38:18 2025, Action: Left Click
+Time: Tue Jan  7 18:38:19 2025, Action: Left Click
+Time: Tue Jan  7 18:38:20 2025, Action: Right Click
+Time: Tue Jan  7 18:38:29 2025, Action: Left Click
+Time: Tue Jan  7 18:38:30 2025, Action: Left Click
+Time: Tue Jan  7 18:38:32 2025, Action: Right Click
+Time: Tue Jan  7 18:38:36 2025, Action: Right Click
+Time: Tue Jan  7 18:39:02 2025, Action: Left Click
+Time: Tue Jan  7 18:39:18 2025, Action: Left Click
+Time: Tue Jan  7 18:39:22 2025, Action: Left Click
+Time: Tue Jan  7 18:39:24 2025, Action: Left Click
+Time: Tue Jan  7 18:39:24 2025, Action: Left Click
+
+Session on Tue Jan  7 20:21:13 2025:
+Left Clicks: 10
+Right Clicks: 1
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+Time: Tue Jan  7 20:19:23 2025, Action: Right Click
+Time: Tue Jan  7 20:19:40 2025, Action: Left Click
+Time: Tue Jan  7 20:19:50 2025, Action: Left Click
+Time: Tue Jan  7 20:19:51 2025, Action: Left Click
+Time: Tue Jan  7 20:20:17 2025, Action: Left Click
+Time: Tue Jan  7 20:20:25 2025, Action: Left Click
+Time: Tue Jan  7 20:20:37 2025, Action: Left Click
+Time: Tue Jan  7 20:20:40 2025, Action: Left Click
+Time: Tue Jan  7 20:20:51 2025, Action: Left Click
+Time: Tue Jan  7 20:20:53 2025, Action: Left Click
+Time: Tue Jan  7 20:20:54 2025, Action: Left Click
+
+Session on Wed Jan  8 09:35:03 2025:
+Left Clicks: 2
+Right Clicks: 5
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+Time: Wed Jan  8 09:34:22 2025, Action: Left Click
+Time: Wed Jan  8 09:34:25 2025, Action: Left Click
+Time: Wed Jan  8 09:34:28 2025, Action: Right Click
+Time: Wed Jan  8 09:34:36 2025, Action: Right Click
+Time: Wed Jan  8 09:34:41 2025, Action: Right Click
+Time: Wed Jan  8 09:34:42 2025, Action: Right Click
+Time: Wed Jan  8 09:34:43 2025, Action: Right Click
+
+Session on Wed Jan  8 09:50:57 2025:
+Left Clicks: 2
+Right Clicks: 1
+Last Hand Used: None
+Actions Performed: None
+
+--- Event Log ---
+Time: Wed Jan  8 09:50:32 2025, Action: Left Click
+Time: Wed Jan  8 09:50:35 2025, Action: Right Click
+Time: Wed Jan  8 09:50:39 2025, Action: Left Click
