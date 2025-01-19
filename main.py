@@ -150,36 +150,90 @@ def view_object_detection_data():
 
 # Function to open a window with options to view virtual keyboard, hand tracking, and object detection data
 def open_data_viewer():
-    window.withdraw()  # Hide the main window
+    # Create a new Toplevel window
     data_window = tk.Toplevel(window)
     data_window.title("Data Viewer")
-    data_window.attributes("-fullscreen", True)  # Open the window maximized
+    data_window.attributes("-fullscreen", True)  # Open in fullscreen
     data_window.protocol("WM_DELETE_WINDOW", lambda: on_data_viewer_close(data_window))
 
+    # Load the background image
+    background_image = Image.open("background2.png")
+    background_photo = ImageTk.PhotoImage(background_image)
+
+    # Create a canvas in the Toplevel window
+    canvas = tk.Canvas(data_window, bg="white")
+    canvas.pack(fill="both", expand=True)
+
+    # Add the background image to the canvas
+    background = canvas.create_image(0, 0, anchor="nw", image=background_photo)
+
+    # Bind the resize_image function to dynamically adjust the background
+    canvas.bind(
+        "<Configure>",
+        lambda event: resize_image(event, canvas, background_photo, background)
+    )
+
+    # Keep references to avoid garbage collection
+    canvas.photo_ref = background_photo
+    canvas.image_ref = background_image
+
+    #button Sizes
+    button_width = 300
+    button_height = 70
+
+    #black Backgroud
+    data_label1 = customtkinter.CTkLabel(canvas, fg_color="#36454F", bg_color='#36454F',
+                                          text_color="#36454F", font=("Arial", 24, "bold"),
+                                          corner_radius=5, width=1059, height=350)
+
+    # Text Label
+    data_label2 = customtkinter.CTkLabel(canvas,
+                                                text="Operate your device without a physical keyboard using virtual keyboard functionality."
+                                                    "                                                                     "
+                                                    "--------------------------------------------------------------------------------------------"
+                                                    "AI Virtual Mouse enables seamless device navigation without a physical mouse."
+                                                    "                                                                         "
+                                                    "--------------------------------------------------------------------------------------------"
+                                                    "Real-time Object Detection identifies objects via camera and tracks distances dynamically."
+                                                    "                                                            "
+                                                    "--------------------------------------------------------------------------------------------"
+                                                    "Augmented Reality overlays videos onto scanned objects for an interactive experience.",
+                                                text_color="#899499", fg_color="#28323e",
+                                                bg_color='#36454F', font=("Arial", 20, "bold"),
+                                                corner_radius=5, width=700, height=330, wraplength=650)
+
     # Create buttons for viewing data
-    virtual_keyboard_button = customtkinter.CTkButton(data_window, text="View Virtual Keyboard Data", fg_color="#B71C1C",
-                                                      bg_color='#FFFFFF', font=("Arial", 24, "bold"),
-                                                      command=lambda: view_data('virtual_keyboard_data.txt'),
-                                                      corner_radius=20, width=400, height=100)
-    hand_tracking_button = customtkinter.CTkButton(data_window, text="View AI Virtual Mouse Data", fg_color="#B71C1C",
-                                                   bg_color='#FFFFFF', font=("Arial", 24, "bold"),
-                                                   command=lambda: view_data('hand_tracking_data.txt'),
-                                                   corner_radius=20, width=400, height=100)
-    object_detection_button = customtkinter.CTkButton(data_window, text="View Object Detection Data", fg_color="#B71C1C",
-                                                      bg_color='#FFFFFF', font=("Arial", 24, "bold"),
-                                                      command=view_object_detection_data,
-                                                      corner_radius=20, width=400, height=100)  # New button for object detection
+    virtual_keyboard_button = customtkinter.CTkButton(data_window, text="View Keyboard Data", fg_color="#899499", bg_color='#36454F',
+                                                font=("Arial", 24, "bold"), corner_radius=20,
+                                                width=button_width, height=button_height,
+                                                command=lambda: view_data('virtual_keyboard_data.txt'),)
+    hand_tracking_button = customtkinter.CTkButton(data_window, text="View AI Mouse Data", fg_color="#899499", bg_color='#36454F',
+                                                font=("Arial", 24, "bold"), corner_radius=20,
+                                                width=button_width, height=button_height,
+                                                command=lambda: view_data('hand_tracking_data.txt'))
+    object_detection_button = customtkinter.CTkButton(data_window, text="View Detection Data", fg_color="#899499", bg_color='#36454F',
+                                                font=("Arial", 24, "bold"), corner_radius=20,
+                                                width=button_width, height=button_height,
+                                                command=view_object_detection_data,)  # New button for object detection
+    AR_detection_button = customtkinter.CTkButton(data_window, text="View A.R. Data",
+                                                fg_color="#899499", bg_color='#36454F',
+                                                font=("Arial", 24, "bold"), corner_radius=20,
+                                                width=button_width, height=button_height)  # New button for AR
     back_button = customtkinter.CTkButton(data_window, text="Back", text_color="#B71C1C", fg_color="#FFFFFF",
-                                          bg_color='#B71C1C', font=("Arial", 24, "bold"),
-                                          command=lambda: on_data_viewer_close(data_window),
-                                          corner_radius=20, width=120, height=65)
+                                                bg_color='#28323e', font=("Arial", 24, "bold"),
+                                                command=lambda: on_data_viewer_close(data_window),
+                                                corner_radius=20, width=120, height=65)
 
     # Position the buttons
-    virtual_keyboard_button.place(relx=0.5, rely=0.3, anchor="center")
-    hand_tracking_button.place(relx=0.5, rely=0.45, anchor="center")
-    object_detection_button.place(relx=0.5, rely=0.6, anchor="center")  # Positioning for new button
-    AR.place(relx=0.5, rely=0.9, anchor="center")
-    back_button.place(relx=0.08, rely=0.12, anchor="s")
+    virtual_keyboard_button.place(relx=0.25, rely=0.3, anchor="center")
+    hand_tracking_button.place(relx=0.25, rely=0.4, anchor="center")
+    object_detection_button.place(relx=0.25, rely=0.5, anchor="center")
+    AR_detection_button.place(relx=0.25, rely=0.6, anchor="center")
+    back_button.place(relx=0.05, rely=0.10, anchor="s")
+
+    #position of background Elements
+    data_label1.place(relx=0.49, rely=0.45, anchor="center")    # Place the terminate button at 450% height
+    data_label2.place(relx=0.6, rely=0.45, anchor="center")    # Place the terminate button at 450% height
 
 # Function to handle data viewer close event
 def on_data_viewer_close(data_window):
@@ -191,7 +245,7 @@ window = tk.Tk()
 window.title("AI Virtual System")
 
 # Load the background image
-background_image = Image.open("background.png")
+background_image = Image.open("background2.png")
 background_photo = ImageTk.PhotoImage(background_image)
 
 # Create a canvas
@@ -205,43 +259,72 @@ background = canvas.create_image(0, 0, anchor="nw", image=background_photo)
 canvas.bind("<Configure>", resize_image)
 
 # Label for "AI Virtual System" text
-#title_label = tk.Label(canvas, text="AI Virtual System", font=("Arial", 50, "bold"), bg="#f2f2f2", fg="red", border=10)
-#title_label.place(relx=0.5, rely=0.1, anchor="center")
+title_label1 = customtkinter.CTkLabel(canvas, text="AI VIRTUAL SYSTEM", text_color="#FF5733", font=("Arial", 60, "bold"), bg_color='#36454F', fg_color="#28323e")
 # Set common button size for consistency
 button_width = 300
 button_height = 70
 
-# Custom buttons for running AI programs
-button1 = customtkinter.CTkButton(window, text="AI Virtual Keyboard", fg_color="#B71C1C", bg_color='#FFFFFF',
-                                  font=("Arial", 24, "bold"), command=Run_VirtualKeyboard, corner_radius=20,
-                                  width=button_width, height=button_height)
-button2 = customtkinter.CTkButton(window, text="AI Virtual Mouse", fg_color="#B71C1C", bg_color='#FFFFFF',
-                                  font=("Arial", 24, "bold"), command=Run_SHT, corner_radius=20,
-                                  width=button_width, height=button_height)
-button3 = customtkinter.CTkButton(window, text="Object Detection", fg_color="#B71C1C", bg_color='#FFFFFF',
-                                  font=("Arial", 24, "bold"), command=Run_ObjectDetection, corner_radius=20,
-                                  width=button_width, height=button_height)
-button4 = customtkinter.CTkButton(window, text="Aygemnted Reality", fg_color="#B71C1C", bg_color='#FFFFFF',
-                                  font=("Arial", 24, "bold"), command=AR, corner_radius=20,
-                                  width=button_width, height=button_height)
-button5 = customtkinter.CTkButton(window, text="Data Viewer", fg_color="#B71C1C", bg_color='#FFFFFF',
-                                  font=("Arial", 24, "bold"), command=open_data_viewer, corner_radius=20,
-                                  width=button_width, height=button_height)
-button6 = customtkinter.CTkButton(window, text="Tutorial", fg_color="#B71C1C", bg_color='#FFFFFF',
-                                  font=("Arial", 24, "bold"), command=Open_Tutorial, corner_radius=20,
-                                  width=button_width, height=button_height)
-button7 = customtkinter.CTkButton(window, text="Terminate", text_color="#B71C1C", fg_color="#FFFFFF",
-                                  bg_color='#B71C1C', font=("Arial", 24, "bold"), command=close_subprocess,
-                                  corner_radius=20, width=button_width, height=button_height)
+#White bottom label
+title_label4 = customtkinter.CTkLabel(canvas,fg_color="#E5E4E2", bg_color='#36454F',
+                                text_color="#E5E4E2", font=("Arial", 24, "bold"),
+                                corner_radius=5, width=1059, height=90)
 
-# Position the buttons with same size and alignment
-# Position the buttons vertically in the center
-button1.place(relx=0.25, rely=0.3, anchor="center")  # Place the first button at 30% height
-button2.place(relx=0.5, rely=0.3, anchor="center")  # Place the second button at 40% height
-button3.place(relx=0.75, rely=0.3, anchor="center")  # Place the third button at 50% height
-button4.place(relx=0.25, rely=0.5, anchor="center")  # Place the fourth button at 60% height
-button5.place(relx=0.5, rely=0.5, anchor="center")  # Place the fifth button at 70% height
-button6.place(relx=0.75, rely=0.5, anchor="center")  # Place the terminate button at 80% height
-button7.place(relx=0.5, rely=0.8, anchor="center")  # Place the terminate button at 90% height
+#Black background Element Label
+title_label2 = customtkinter.CTkLabel(canvas,fg_color="#36454F", bg_color='#36454F',
+                                text_color="#FFFFFF", font=("Arial", 24, "bold"),
+                                corner_radius=5, width=1059, height=350)
+
+#Text Label
+title_label3 = customtkinter.CTkLabel(canvas, text="Operate your device without a physical keyboard using virtual keyboard functionality."
+                                                   "                                                                     "
+                                                   "--------------------------------------------------------------------------------------------"
+                                                   "AI Virtual Mouse enables seamless device navigation without a physical mouse."
+                                                   "                                                                         "
+                                                   "--------------------------------------------------------------------------------------------"
+                                                   "Real-time Object Detection identifies objects via camera and tracks distances dynamically."
+                                                   "                                                            "
+                                                   "--------------------------------------------------------------------------------------------"
+                                                   "Augmented Reality overlays videos onto scanned objects for an interactive experience.",
+                                  text_color="#899499", fg_color="#28323e",
+                                  bg_color='#36454F', font=("Arial", 20, "bold"),
+                                  corner_radius=5, width=700, height=330, wraplength=650)
+
+#Buttons Label
+button2 = customtkinter.CTkButton(window, text="AI Virtual Keyboard",  fg_color="#899499", bg_color='#36454F',
+                                font=("Arial", 24, "bold"), command=Run_VirtualKeyboard, corner_radius=20,
+                                width=button_width, height=button_height)
+button3 = customtkinter.CTkButton(window, text="AI Virtual Mouse", fg_color="#899499", bg_color='#36454F',
+                                font=("Arial", 24, "bold"), command=Run_SHT, corner_radius=20,
+                                width=button_width, height=button_height)
+button4 = customtkinter.CTkButton(window, text="Object Detection", fg_color="#899499", bg_color='#36454F',
+                                font=("Arial", 24, "bold"), command=Run_ObjectDetection, corner_radius=20,
+                                width=button_width, height=button_height)
+button5 = customtkinter.CTkButton(window, text="Augemented Reality", fg_color="#899499", bg_color='#36454F',
+                                font=("Arial", 24, "bold"), command=AR, corner_radius=20,
+                                width=button_width, height=button_height)
+button6 = customtkinter.CTkButton(window, text="Data Viewer", fg_color="#36454F", text_color="#FF5733", bg_color='#E5E4E2',
+                                font=("Arial", 24, "bold"), command=open_data_viewer, corner_radius=20,
+                                width=button_width, height=button_height)
+button7 = customtkinter.CTkButton(window, text="Tutorial", fg_color="#36454F", text_color="#FF5733", bg_color='#E5E4E2',
+                                font=("Arial", 24, "bold"), command=Open_Tutorial, corner_radius=20,
+                                width=button_width, height=button_height)
+button8 = customtkinter.CTkButton(window, text="Terminate", text_color="#FF5733", fg_color="#36454F",
+                                bg_color='#E5E4E2', font=("Arial", 24, "bold"), command=close_subprocess,
+                                corner_radius=20, width=button_width, height=button_height)
+
+# Position the buttons
+button2.place(relx=0.25, rely=0.3, anchor="center")  # Place the first button at 30% height
+button3.place(relx=0.25, rely=0.4, anchor="center")  # Place the second button at 40% height
+button4.place(relx=0.25, rely=0.5, anchor="center")  # Place the third button at 50% height
+button5.place(relx=0.25, rely=0.6, anchor="center")  # Place the fourth button at 60% height
+button6.place(relx=0.29, rely=0.723, anchor="center")  # Place the fifth button at 70% height
+button7.place(relx=0.71, rely=0.723, anchor="center")  # Place the terminate button at 70% height
+button8.place(relx=0.50, rely=0.723, anchor="center")  # Place the terminate button at 70% height
+
+#label Positioning
+title_label1.place(relx=0.52, rely=0.15, anchor="center")
+title_label2.place(relx=0.49, rely=0.45, anchor="center")
+title_label3.place(relx=0.6, rely=0.45, anchor="center")  # Place the terminate button at 45% height
+title_label4.place(relx=0.49, rely=0.72, anchor="center")  # Place the terminate button at 72% height
 
 window.mainloop()
